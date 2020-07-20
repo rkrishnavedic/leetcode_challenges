@@ -8,6 +8,8 @@ public:
     }
 };
 
+//Another approach
+
 class Solution2 {
 public:
     bool isPowerOfTwo(int n) {
