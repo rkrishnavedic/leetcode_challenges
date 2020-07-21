@@ -1,3 +1,5 @@
+//Following approach is due to the knowledge of builtin fuctions of cpp language
+
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
@@ -8,7 +10,7 @@ public:
     }
 };
 
-//Another approach
+//Another approach without the builtin functions of cpp
 
 class Solution2 {
 public:
