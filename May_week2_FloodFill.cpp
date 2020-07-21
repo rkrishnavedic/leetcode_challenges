@@ -21,3 +21,4 @@ public:
         return image;
     }
 };
+//Note: the color which I am replacing with is subject to that color only
