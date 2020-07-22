@@ -1,4 +1,4 @@
-//There can be other solution to fuction that traverse in other direction itself
+//There can be other solution to the problem where one can write the fuction of zigzag in more elegant way to traverse in zigzag manner on the height parameter 
 class Solution {
 public:
     
